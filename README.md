@@ -5,8 +5,8 @@
 
 <div>
     <a href="https://github.com/Icaro2003"></a>
-    <img height="168em" src="https://github-readme-stats.vercel.app/api?username=Icaro2003&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-    <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icaro2003&layout=compact&langs_count=7&theme=cobalt"/>
+    <img height="168em" src="https://github-readme-stats.vercel.app/api?username=Icaro2003&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+    <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icaro2003&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
 <div style="display: inline_block"><br>
