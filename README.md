@@ -1,7 +1,7 @@
 ## Hello, my name is Ícaro 👋
 
-- 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning JavaScript
+- 👨‍💻 I’m currently working on front-end
+- 📚 I’m currently learning JavaScript
 
 <div>
     <a href="https://github.com/Icaro2003"></a>
