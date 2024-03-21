@@ -17,11 +17,6 @@
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     
 </div>
-
-## ⭐ GitHub Stats
-
-<p><img align='left' src="https://github-readme-stats.vercel.app/api?username=Icaro2003&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github"></p><br>
-
   
 ## 👍🏻 Social Media
   
@@ -34,3 +29,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
+
+## ⭐ GitHub Stats
+
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=Icaro2003&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
