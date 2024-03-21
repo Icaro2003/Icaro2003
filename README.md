@@ -3,7 +3,7 @@
 - 👨‍💻 Estou em constante aprendizado com programação.
 
 <div>
-    <a href="https://github.com/Icaro2003"><img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github"></a>
+    <a href="https://github.com/Icaro2003">
     <!--<img height="155em" src="https://github-readme-stats.vercel.app/api?username=Icaro2003&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icaro2003&layout=compact&langs_count=8&theme=dark"/>-->
     <img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
