@@ -16,7 +16,7 @@
   
 ## 👍🏻 Social Media
   
-<div>
+<p>
   <a href="https://www.instagram.com/icarosampaioaragao" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/%C3%ADcaro-sampaio-arag%C3%A3o-a995a2187" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</div>
+</p>
 
 ## ⭐ GitHub Stats
 
