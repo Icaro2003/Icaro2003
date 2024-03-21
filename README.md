@@ -2,8 +2,6 @@
 
 - 👨‍💻 Estou em constante aprendizado com programação.
 
-<p><img align='right' src="https://github-readme-stats.vercel.app/api?username=Icaro2003&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github"></p>
-
 <div>
     <a href="https://github.com/Icaro2003">
     <!--<img height="155em" src="https://github-readme-stats.vercel.app/api?username=Icaro2003&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -22,6 +20,10 @@
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     
 </div>
+
+## ⭐ GitHub Stats
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Icaro2003&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
   
   ##
   
