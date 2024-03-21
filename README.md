@@ -4,9 +4,6 @@
 
 <div>
     <a href="https://github.com/Icaro2003">
-    <!--<img height="155em" src="https://github-readme-stats.vercel.app/api?username=Icaro2003&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icaro2003&layout=compact&langs_count=8&theme=dark"/>-->
-    <img src="https://img.shields.io/static/v1?label=Overview&message=Icarus2003&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"></a>
 </div>
 
 ## 🚀 Hard Skills
@@ -20,10 +17,6 @@
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     
 </div>
-
-## ⭐ GitHub Stats
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Icaro2003&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
   
 ## 👍🏻 Social Media
   
@@ -36,3 +29,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
+
+## ⭐ GitHub Stats
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Icaro2003&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
