@@ -6,7 +6,7 @@
     <a href="https://github.com/Icaro2003">
     <!--<img height="155em" src="https://github-readme-stats.vercel.app/api?username=Icaro2003&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icaro2003&layout=compact&langs_count=8&theme=dark"/>-->
-    <img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+    <img src="https://img.shields.io/static/v1?label=Overview&message=Icarus2003&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 </div>
   
 <div style="display: inline_block"><br>
