@@ -9,9 +9,10 @@
     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icaro2003&layout=compact&langs_count=8&theme=dark"/>-->
     <img src="https://img.shields.io/static/v1?label=Overview&message=Icarus2003&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"></a>
 </div>
-  
+
+## 🚀 Hard Skills
+---  
 <div style="display: inline_block">
-    <h2>🚀 Hard Skills</h2>
     <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
