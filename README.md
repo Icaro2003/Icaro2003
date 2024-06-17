@@ -1,5 +1,6 @@
 # Olá, meu nome é Ícaro 👋
-- 👨‍💻 Estou em constante aprendizado com programação
+- 🏫 Cursando Sistemas da Informação na UFC(Campus de Crateús)
+- 💻 Recentemente estudando as bases de Estrutura de Dados
 
 ## 🚀 Hard Skills
 <div style="display: inline_block; margin-top:10px;">
