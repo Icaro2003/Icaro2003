@@ -1,7 +1,5 @@
 ## Olá, meu nome é Ícaro 👋
 
-- 👨‍💻 Estou em constante aprendizado com programação.
-
 ## 🚀 Hard Skills
 <div style="display: inline_block; margin-top:10px;">
     <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
