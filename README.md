@@ -1,4 +1,5 @@
-## Olá, meu nome é Ícaro 👋
+# Olá, meu nome é Ícaro 👋
+- 👨‍💻 Estou em constante aprendizado com programação
 
 ## 🚀 Hard Skills
 <div style="display: inline_block; margin-top:10px;">
